@@ -31,7 +31,7 @@ I've learnt so many things in the way of making this application 📝 and ways t
     Clone this repo by typing following command
 
     ```shell
-    git clone https://github.com/cyrus43/COVID-19-Tracker
+    git clone https://github.com/cyrus43/COVID-19kenya
     ```
 
 2.  **Start developing.**
@@ -77,5 +77,5 @@ I've learnt so many things in the way of making this application 📝 and ways t
 ✅ _If you wanna contribute to #OpenSource community, please create a *PR*._
 
   ### ***Contributors***
-  - 💻 Author: [Rakesh Mandal](https://twitter.com/cyrusmbithi92)
+  - 💻 Author: [Cyrus mbithi](https://twitter.com/cyrusmbithi92)
 
