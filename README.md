@@ -31,7 +31,7 @@ I've learnt so many things in the way of making this application 📝 and ways t
     Clone this repo by typing following command
 
     ```shell
-    git clone https://github.com/cyrus43/COVID-19kenya
+    git clone https://github.com/cyrus43/covid-19kenya
     ```
 
 2.  **Start developing.**
@@ -40,13 +40,13 @@ I've learnt so many things in the way of making this application 📝 and ways t
 
     ```shell
     npm i
-    cd COVID-19-Tracker/
+    cd covid-19kenya/
     gatsby develop
     ```
     or
     ```shell
     npm i
-    cd COVID-19-Tracker/
+    cd covid-19kenya/
     npm start
     ```
 
