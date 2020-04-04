@@ -31,7 +31,7 @@ I've learnt so many things in the way of making this application 📝 and ways t
     Clone this repo by typing following command
 
     ```shell
-    git clone https://github.com/rkalways/COVID-19-Tracker
+    git clone https://github.com/cyrus43/COVID-19-Tracker
     ```
 
 2.  **Start developing.**
@@ -77,9 +77,5 @@ I've learnt so many things in the way of making this application 📝 and ways t
 ✅ _If you wanna contribute to #OpenSource community, please create a *PR*._
 
   ### ***Contributors***
-  - 💻 Author: [Rakesh Mandal](https://twitter.com/rkalways_)
+  - 💻 Author: [Rakesh Mandal](https://twitter.com/cyrusmbithi92)
 
-  - 🎨 Graphics by: [Roneet Michael](https://twitter.com/roneetm)
-
-------
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b1daa34f-120d-49f4-882c-210b17a54278/deploy-status)](https://app.netlify.com/sites/covid19-outbreak/deploys)
